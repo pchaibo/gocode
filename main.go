@@ -1,1 +1,4 @@
-222dfsff
+package main
+func main(){
+
+}
